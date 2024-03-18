@@ -6,7 +6,6 @@
 }
 body{
     background:#5F0F40;
-    /* overflow: hidden; */
   }
 .container{
     margin: 170px auto;
@@ -47,7 +46,7 @@ form{
     outline: none;
     border: 1px solid rgb(205, 231, 9);
     font-size: 15px;
-    /* transition: all 0.3s ease; */
+    transition: all 0.3s ease;
 
 }
 
